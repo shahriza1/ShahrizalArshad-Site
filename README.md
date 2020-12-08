@@ -1,3 +1,12 @@
 # Shahrizal Arshad Portfolio
 
-Hey! Welcome to my portfolio. The purpose I create this website is for my portfolio. Currently, I am studying in Information Technology and Communication Program at Ungku Omar Polytechnic, Ipoh, Perak. 
+Hey! Welcome to my portfolio.
+
+It's coming up tomorrow when I learn HTML and CSS with Tanay Pratap live on Youtube.
+
+For now, I know:
+
+1. JavaScript
+2. NodeJS
+3. Repl.it
+4. CHALK
